@@ -2,6 +2,8 @@
 
 My name is Marco Franssen. I work as a Senior Architect at Philips - Research.
 
+![Snake animation](https://github.com/marcofranssen/marcofranssen/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 I’m currently working on Cloud topics and investigating a bunch of CNCF projects like Notary v2, SPIFFE/Spire and the list goes on.
 - 🌱 I’m currently learning a variety of different CNCF projects related to k8s.
 - 👯 I’m looking to collaborate on any Open Source project that comes on my path. 
