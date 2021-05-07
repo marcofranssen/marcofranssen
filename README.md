@@ -14,6 +14,17 @@ My name is Marco Franssen. I work as a Senior Architect at Philips - Research.
 - ⚡ Fun fact: ...
 -->
 
+### Languages & Tools 🛠  
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcofranssen&layout=compact&count_private=true)
+
+### Stats ⚙️
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=marcofranssen&count_private=true&show_icons=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marcofranssen&hide_border=true)
+![](profile-summary-card-output/github/0-profile-details.svg)
+![](profile-summary-card-output/github/4-productive-time.svg)
+
 ### Let's connect? 🤝
 
 [Blog](https://marcofranssen.nl)
