@@ -15,10 +15,20 @@
 ### Each card usage
 ---
 
-![](./4-productive-time.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/marcofranssen/marcofranssen/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/marcofranssen/marcofranssen/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/marcofranssen/marcofranssen/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 ```
 
     
