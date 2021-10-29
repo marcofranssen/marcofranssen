@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./4-productive-time.svg)
 
 ```
-![](https://raw.githubusercontent.com/marcofranssen/marcofranssen/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/marcofranssen/marcofranssen/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/marcofranssen/marcofranssen/main/profile-summary-card-output/nord_bright/4-productive-time.svg)
 ```
 
     
