@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/marcofranssen/marcofranssen/main/profile-summary-card-output/github/4-productive-time.svg)
-```
-
-    
