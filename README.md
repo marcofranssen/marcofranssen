@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Marco Franssen. I work as a Senior Architect at Philips - Research.
+My name is Marco Franssen. I work as a Principal Platform Architect at Philips.
 
 ![Snake animation](https://github.com/marcofranssen/marcofranssen/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently building a Kubernets based platform to host Healthcare applications. In there we use a whole bunch of CNCF projects like SPIFFE/Spire, Certmanager, Crossplane, FluentBit, Prometheus, ArgoCD etc.
+- 🔭 I’m currently building a Kubernetes based platform to host Healthcare applications. In there we use a whole bunch of CNCF projects like SPIFFE/Spire, Certmanager, Crossplane, FluentBit, Prometheus, ArgoCD etc.
 - 🌱 I’m currently learning a variety of different CNCF projects related to k8s.
 - 👯 I’m looking to collaborate on any Open Source project that comes on my path. 
 - 💬 Ask me about Scuba diving and any Golang related topics.
